@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_USERNAME</h1>
+<h1 align="center">Hi 👋, I'm Subroto</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7C948&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+Lover;Creative+Web+Designer" />
@@ -6,7 +6,7 @@
 
 ---
 
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.gif" />
+<img width="100%" src="https://raw.githubusercontent.com/Subroto Dey/shuvo070/main/banner.gif" />
 
 ---
 
@@ -36,4 +36,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvo070&theme=tokyonight" />
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/shuvo070/main/banner.gif" />
+<img width="100%" src="https://raw.githubusercontent.com/Subroto Dey/shuvo070/main/banner.gif" />
