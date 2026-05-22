@@ -1096,5 +1096,4 @@
 
 ### Please 🌟 this repository! It really helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
 .
-
-[Discord](https://discordapp.com/users/877531143610708028)
+[Contract me](https://guns.lol/r11)
