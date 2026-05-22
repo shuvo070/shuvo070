@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm YOUR_USERNAME</h1>
 
-<!--
-**shuvo070/shuvo070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7C948&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+Lover;Creative+Web+Designer" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.gif" />
+
+---
+
+### 🚀 About Me
+- 🌱 Learning JavaScript & Web Development
+- 🎨 Love creating beautiful websites
+- 💻 Working on Portfolio Projects
+- ⚡ Fun fact: I love coding at night
+
+---
+
+### 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvo070&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvo070&theme=tokyonight" />
+</p>
+
+<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/shuvo070/main/banner.gif" />
